@@ -1,0 +1,9 @@
+{
+  "prNumber": 1,
+  "changeTitle": "Test",
+  "changeSummary": "Test",
+  "changeTags": [
+    "require-runtime-build",
+    "user-facing-minor"
+  ]
+}
